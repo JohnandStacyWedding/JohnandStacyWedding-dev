@@ -1,4 +1,27 @@
 /** embedded font double rendering issue fix -- https://css-tricks.com/forums/discussion/10449/weird-mobile-safari-font-face-problem-font-doubled-and-offset-to-the-left-/p1 **/
+
+/** colors:
+    #222
+#b3d4fc
+#4e406d
+#4e406d
+#444
+#CCC
+#FFF
+#f6f6f6
+#44FFFF00
+#5E000000
+#000
+#776996
+#B2000000
+#FFF
+#999
+#1e1e1e
+#808080
+**/
+
+
+
 h1, h2, h3, h4, h5, h6 { /*reset for mobile browsers */
     font-weight: normal;
 }
@@ -867,3 +890,4 @@ a.email {
     -webkit-border-radius: 2px;
     border-radius: 2px;
 }
+

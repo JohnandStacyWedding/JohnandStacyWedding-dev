@@ -1,21 +1,10 @@
-responsive-wedding
-------------------
-
-An HTML5 responsive design using jquery waypoints & scroll-to for a pleasant single-page navigation. This template makes use of media queries and scales well for all mobile form-factors.
-
-A live demo can be viewed at:
-
-   http://sarahlovesbradley.com
-
-========
-
-![Preview](https://github.com/bmgdev/responsive-wedding/blob/master/preview.png?raw=true)
+The template of this site was developed and shared as a [repository](https://github.com/bmgdev/responsive-wedding/) by [Bradley Greenwood](https://github.com/bmgdev/).
 
 ## LICENSE
 
 (The MIT License)
 
-Copyright © Scal.io, LLC [Bradley Greenwood](http://github.com/bmgdev/)
+Original work Copyright © Scal.io, LLC [Bradley Greenwood](https://github.com/bmgdev/)
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
@@ -34,3 +23,9 @@ THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
 OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
+
+
+Fork Copyright © 2017 [John Turner and Stacy DeCrane](https://github.com/JohnandStacyWedding/)
+
+All rights of John Turner and Stacy DeCrane are reserved.
+
